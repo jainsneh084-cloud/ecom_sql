@@ -1,0 +1,51 @@
+order_id,order_date,order_status,payment_method,customer_id,customer_name,product_id,product_name,brand,category_name,quantity,unit_price,discount_percent,line_total
+ORD-3001,"2023-01-05 10:15:30",Delivered,"Credit Card",CUST-1003,"Rohan Verma",PROD-2003,"Portable Bluetooth Speaker",JBL,Electronics,1,3499.00,5,3324.00
+ORD-3001,"2023-01-05 10:15:30",Delivered,"Credit Card",CUST-1003,"Rohan Verma",PROD-2004,"4K Ultra HD Smart LED TV 55 inch",Samsung,Electronics,1,52990.00,10,47691.00
+ORD-3002,"2023-01-08 14:22:10",Delivered,UPI,CUST-1012,"Divya Rao",PROD-2005,"Fast Charging Power Bank 20000mAh",Mi,Electronics,2,1899.00,0,3798.00
+ORD-3002,"2023-01-08 14:22:10",Delivered,UPI,CUST-1012,"Divya Rao",PROD-2006,"Ergonomic Wireless Mouse",Logitech,Electronics,1,1299.00,5,1234.00
+ORD-3003,"2023-01-12 09:45:00",Delivered,"Net Banking",CUST-1045,"Vishal Prasad",PROD-2007,"Mechanical Gaming Keyboard",Razer,Electronics,1,6499.00,8,5979.00
+ORD-3003,"2023-01-12 09:45:00",Delivered,"Net Banking",CUST-1045,"Vishal Prasad",PROD-2008,"True Wireless Earbuds ANC",Boat,Electronics,2,2499.00,5,4748.00
+ORD-3004,"2023-01-15 18:30:15",Delivered,"Debit Card",CUST-1089,"Varun Dhawan",PROD-2009,"1080p Web Camera with Mic",Lenovo,Electronics,1,2199.00,0,2199.00
+ORD-3004,"2023-01-15 18:30:15",Delivered,"Debit Card",CUST-1089,"Varun Dhawan",PROD-2010,"Slim Gaming Laptop 15.6 inch",ASUS,Electronics,1,74999.00,10,67499.00
+ORD-3005,"2023-01-18 11:05:40",Delivered,UPI,CUST-1001,"Aarav Sharma",PROD-2011,"Men Regular Fit Solid Cotton Shirt","Allen Solly",Fashion,2,1499.00,5,2848.00
+ORD-3005,"2023-01-18 11:05:40",Delivered,UPI,CUST-1001,"Aarav Sharma",PROD-2003,"Portable Bluetooth Speaker",JBL,Electronics,1,3499.00,10,3149.00
+ORD-3006,"2023-01-22 16:40:20",Delivered,COD,CUST-1023,"Suresh Pillai",PROD-2004,"4K Ultra HD Smart LED TV 55 inch",Samsung,Electronics,1,52990.00,5,50341.00
+ORD-3006,"2023-01-22 16:40:20",Delivered,COD,CUST-1023,"Suresh Pillai",PROD-2005,"Fast Charging Power Bank 20000mAh",Mi,Electronics,2,1899.00,8,3494.00
+ORD-3007,"2023-01-25 20:10:05",Cancelled,"Credit Card",CUST-1067,"Saurabh Tiwari",PROD-2006,"Ergonomic Wireless Mouse",Logitech,Electronics,1,1299.00,0,1299.00
+ORD-3007,"2023-01-25 20:10:05",Cancelled,"Credit Card",CUST-1067,"Saurabh Tiwari",PROD-2007,"Mechanical Gaming Keyboard",Razer,Electronics,2,6499.00,5,12348.00
+ORD-3008,"2023-01-29 13:15:50",Delivered,UPI,CUST-1014,"Meera Kulkarni",PROD-2008,"True Wireless Earbuds ANC",Boat,Electronics,1,2499.00,10,2249.00
+ORD-3008,"2023-01-29 13:15:50",Delivered,UPI,CUST-1014,"Meera Kulkarni",PROD-2009,"1080p Web Camera with Mic",Lenovo,Electronics,2,2199.00,5,4178.00
+ORD-3009,"2023-02-02 12:00:00",Delivered,"Credit Card",CUST-1092,"Yami Gautam",PROD-2010,"Slim Gaming Laptop 15.6 inch",ASUS,Electronics,1,74999.00,8,68999.00
+ORD-3009,"2023-02-02 12:00:00",Delivered,"Credit Card",CUST-1092,"Yami Gautam",PROD-2011,"Men Regular Fit Solid Cotton Shirt","Allen Solly",Fashion,1,1499.00,0,1499.00
+ORD-3010,"2023-02-05 15:55:10",Delivered,"Debit Card",CUST-1034,"Shalini Varma",PROD-2003,"Portable Bluetooth Speaker",JBL,Electronics,2,3499.00,5,6648.00
+ORD-3010,"2023-02-05 15:55:10",Delivered,"Debit Card",CUST-1034,"Shalini Varma",PROD-2006,"Ergonomic Wireless Mouse",Logitech,Electronics,1,1299.00,10,1169.00
+ORD-3011,"2023-02-09 17:20:45",Delivered,UPI,CUST-1078,"Vandana Shiva",PROD-2004,"4K Ultra HD Smart LED TV 55 inch",Samsung,Electronics,1,52990.00,8,48751.00
+ORD-3011,"2023-02-09 17:20:45",Delivered,UPI,CUST-1078,"Vandana Shiva",PROD-2008,"True Wireless Earbuds ANC",Boat,Electronics,1,2499.00,5,2374.00
+ORD-3012,"2023-02-14 10:30:00",Delivered,"Credit Card",CUST-1005,"Vikram Singh",PROD-2005,"Fast Charging Power Bank 20000mAh",Mi,Electronics,3,1899.00,10,5127.00
+ORD-3012,"2023-02-14 10:30:00",Delivered,"Credit Card",CUST-1005,"Vikram Singh",PROD-2007,"Mechanical Gaming Keyboard",Razer,Electronics,1,6499.00,0,6499.00
+ORD-3013,"2023-02-18 19:10:25",Delivered,"Net Banking",CUST-1056,"Sunita Mahajan",PROD-2009,"1080p Web Camera with Mic",Lenovo,Electronics,2,2199.00,5,4178.00
+ORD-3013,"2023-02-18 19:10:25",Delivered,"Net Banking",CUST-1056,"Sunita Mahajan",PROD-2010,"Slim Gaming Laptop 15.6 inch",ASUS,Electronics,1,74999.00,5,71249.00
+ORD-3014,"2023-02-21 08:45:30",Delivered,COD,CUST-1022,"Isha Deshmukh",PROD-2011,"Men Regular Fit Solid Cotton Shirt","Allen Solly",Fashion,1,1499.00,10,1349.00
+ORD-3014,"2023-02-21 08:45:30",Delivered,COD,CUST-1022,"Isha Deshmukh",PROD-2003,"Portable Bluetooth Speaker",JBL,Electronics,2,3499.00,0,6998.00
+ORD-3015,"2023-02-25 21:05:15",Delivered,UPI,CUST-1081,"Jiten Zaveri",PROD-2004,"4K Ultra HD Smart LED TV 55 inch",Samsung,Electronics,1,52990.00,5,50341.00
+ORD-3015,"2023-02-25 21:05:15",Delivered,UPI,CUST-1081,"Jiten Zaveri",PROD-2006,"Ergonomic Wireless Mouse",Logitech,Electronics,2,1299.00,8,2389.00
+ORD-3016,"2023-03-01 11:50:40",Delivered,"Credit Card",CUST-1039,"Manoj Shukla",PROD-2007,"Mechanical Gaming Keyboard",Razer,Electronics,1,6499.00,10,5849.00
+ORD-3016,"2023-03-01 11:50:40",Delivered,"Credit Card",CUST-1039,"Manoj Shukla",PROD-2008,"True Wireless Earbuds ANC",Boat,Electronics,1,2499.00,0,2499.00
+ORD-3017,"2023-03-04 14:15:00",Returned,"Debit Card",CUST-1010,"Pooja Joshi",PROD-2009,"1080p Web Camera with Mic",Lenovo,Electronics,2,2199.00,8,4046.00
+ORD-3017,"2023-03-04 14:15:00",Returned,"Debit Card",CUST-1010,"Pooja Joshi",PROD-2011,"Men Regular Fit Solid Cotton Shirt","Allen Solly",Fashion,1,1499.00,5,1424.00
+ORD-3018,"2023-03-08 16:35:20",Delivered,UPI,CUST-1063,"Chetan Bhagat",PROD-2010,"Slim Gaming Laptop 15.6 inch",ASUS,Electronics,1,74999.00,10,67499.00
+ORD-3018,"2023-03-08 16:35:20",Delivered,UPI,CUST-1063,"Chetan Bhagat",PROD-2005,"Fast Charging Power Bank 20000mAh",Mi,Electronics,2,1899.00,5,3608.00
+ORD-3019,"2023-03-12 10:00:05",Delivered,"Credit Card",CUST-1095,"Rajkummar Rao",PROD-2003,"Portable Bluetooth Speaker",JBL,Electronics,1,3499.00,0,3499.00
+ORD-3019,"2023-03-12 10:00:05",Delivered,"Credit Card",CUST-1095,"Rajkummar Rao",PROD-2007,"Mechanical Gaming Keyboard",Razer,Electronics,2,6499.00,5,12348.00
+ORD-3020,"2023-03-16 13:40:50",Delivered,COD,CUST-1018,"Shweta Pandey",PROD-2004,"4K Ultra HD Smart LED TV 55 inch",Samsung,Electronics,1,52990.00,10,47691.00
+ORD-3020,"2023-03-16 13:40:50",Delivered,COD,CUST-1018,"Shweta Pandey",PROD-2008,"True Wireless Earbuds ANC",Boat,Electronics,2,2499.00,5,4748.00
+ORD-3021,"2023-03-20 18:25:30",Delivered,"Net Banking",CUST-1042,"Nidhi Hegde",PROD-2006,"Ergonomic Wireless Mouse",Logitech,Electronics,1,1299.00,0,1299.00
+ORD-3021,"2023-03-20 18:25:30",Delivered,"Net Banking",CUST-1042,"Nidhi Hegde",PROD-2009,"1080p Web Camera with Mic",Lenovo,Electronics,1,2199.00,5,2089.00
+ORD-3022,"2023-03-24 09:10:15",Delivered,UPI,CUST-1071,"Chirag Parekh",PROD-2010,"Slim Gaming Laptop 15.6 inch",ASUS,Electronics,1,74999.00,8,68999.00
+ORD-3022,"2023-03-24 09:10:15",Delivered,UPI,CUST-1071,"Chirag Parekh",PROD-2011,"Men Regular Fit Solid Cotton Shirt","Allen Solly",Fashion,2,1499.00,10,2698.00
+ORD-3023,"2023-03-28 20:45:00",Delivered,"Credit Card",CUST-1008,"Kavya Gupta",PROD-2003,"Portable Bluetooth Speaker",JBL,Electronics,3,3499.00,5,9972.00
+ORD-3023,"2023-03-28 20:45:00",Delivered,"Credit Card",CUST-1008,"Kavya Gupta",PROD-2005,"Fast Charging Power Bank 20000mAh",Mi,Electronics,1,1899.00,0,1899.00
+ORD-3024,"2023-04-02 12:30:40",Delivered,"Debit Card",CUST-1050,"Rashmi Kulkarni",PROD-2007,"Mechanical Gaming Keyboard",Razer,Electronics,1,6499.00,5,6174.00
+ORD-3024,"2023-04-02 12:30:40",Delivered,"Debit Card",CUST-1050,"Rashmi Kulkarni",PROD-2008,"True Wireless Earbuds ANC",Boat,Electronics,1,2499.00,10,2249.00
+ORD-3025,"2023-04-05 15:15:10",Delivered,UPI,CUST-1086,"Richa Chadha",PROD-2004,"4K Ultra HD Smart LED TV 55 inch",Samsung,Electronics,1,52990.00,5,50341.00
+ORD-3025,"2023-04-05 15:15:10",Delivered,UPI,CUST-1086,"Richa Chadha",PROD-2010,"Slim Gaming Laptop 15.6 inch",ASUS,Electronics,1,74999.00,0,74999.00

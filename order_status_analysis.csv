@@ -1,0 +1,6 @@
+order_status,total_orders,total_value
+Delivered,186,853563.00
+Shipped,5,28196.00
+Processing,5,12595.00
+Cancelled,2,77989.00
+Returned,2,6798.00

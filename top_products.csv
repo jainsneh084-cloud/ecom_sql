@@ -1,0 +1,10 @@
+product_id,product_name,brand,category_name,units_sold,revenue
+PROD-2010,"Slim Gaming Laptop 15.6 inch",ASUS,Electronics,6,419244.00
+PROD-2004,"4K Ultra HD Smart LED TV 55 inch",Samsung,Electronics,6,295156.00
+PROD-2007,"Mechanical Gaming Keyboard",Razer,Electronics,8,49197.00
+PROD-2003,"Portable Bluetooth Speaker",JBL,Electronics,10,33590.00
+PROD-2008,"True Wireless Earbuds ANC",Boat,Electronics,8,18867.00
+PROD-2005,"Fast Charging Power Bank 20000mAh",Mi,Electronics,10,17926.00
+PROD-2009,"1080p Web Camera with Mic",Lenovo,Electronics,8,16690.00
+PROD-2011,"Men Regular Fit Solid Cotton Shirt","Allen Solly",Fashion,7,9818.00
+PROD-2006,"Ergonomic Wireless Mouse",Logitech,Electronics,6,7390.00
